@@ -9,4 +9,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/shivansh872/JAVA_CA/tree/master/0125-valid-palindrome) |
+## Array
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/shivansh872/JAVA_CA/tree/master/0056-merge-intervals) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/shivansh872/JAVA_CA/tree/master/0056-merge-intervals) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/shivansh872/JAVA_CA/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
