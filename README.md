@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/shivansh872/JAVA_CA/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/shivansh872/JAVA_CA/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/shivansh872/JAVA_CA/tree/master/0056-merge-intervals) |
+| [0189-rotate-array](https://github.com/shivansh872/JAVA_CA/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
@@ -21,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/shivansh872/JAVA_CA/tree/master/0056-merge-intervals) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/shivansh872/JAVA_CA/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
